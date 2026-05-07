@@ -6,3 +6,4 @@ holidays
 scikit-learn
 xgboost
 shap
+dvc
